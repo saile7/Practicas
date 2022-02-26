@@ -1,0 +1,22 @@
+{
+    "todos": [
+      {
+        "title": "tarea1",
+        "responsible": "mark",
+        "description": "Registrar tareas",
+        "priority": "Baja"
+      },
+      {
+        "title": "tare2",
+        "responsible": "ryan",
+        "description": "Presentar tareas",
+        "priority": "mediana"
+      },
+      {
+        "title": "tarea3",
+        "responsible": "joseph",
+        "description": "Impecionar tareas",
+        "priority": "Alta"
+      }
+    ]
+  }
